@@ -1,0 +1,33 @@
+maps:
+  Labyrinthe:
+    coordinates: [-1000, 100, 1000]
+    spawnpoints:
+      - [-1062, -19, 1078]
+      - [-1044, -19, 1068]
+      - [-998, -19, 1057]
+      - [-1069, -19, 1058]
+  Desert:
+    coordinates: [1000, 100, 1000]
+    spawnpoints:
+      - [1002, 100, 1002]
+      - [1003, 100, 1003]
+  Big_tree:
+    coordinates: [1000000, 200, 1000000]
+    spawnpoints:
+      - [1000002, 200, 1000002]
+      - [1000003, 200, 1000003]
+  Big_caverne:
+    coordinates: [100000, 50, 100000]
+    spawnpoints:
+      - [100002, 50, 100002]
+      - [100003, 50, 100003]
+  Fiery_waste:
+    coordinates: [5000, 100, 5000]
+    spawnpoints:
+      - [5002, 100, 5002]
+      - [5003, 100, 5003]
+  Fairy_island:
+    coordinates: [10000, 50, 10000]
+    spawnpoints:
+      - [10002, 50, 10002]
+      - [10003, 50, 10003]

@@ -1,0 +1,12 @@
+name: Eden
+version: 2
+author: Midey
+main: fr.midey.Eden.Eden
+api-version: 1.20
+commands:
+  model:
+    description: "Opens the weapon model selection inventory"
+    usage: "/model weapon"
+  focusreload:
+    description: Reloads the plugin
+    usage: "/focusreload"
